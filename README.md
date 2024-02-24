@@ -18,7 +18,8 @@
 
 
 <h2>⚡Skills⚡</h2>
-https://github.com/sdsutariya/sdsutariya/assets/56433588/08c1b137-52c4-4c85-93a0-a447be11ec1e
+![image](https://github.com/sdsutariya/sdsutariya/assets/56433588/b086c68d-cee0-4979-9f48-ee695d1baeb0)
+
  Express.js Nextess.js Mongodb Redis postgreSQL MySQL jest.js cypress Docker AWS github-actions nginx javascript typescript Go java python react.js GrapgQL Tailwind CSS git github
 
 <h2>📫 How to reach me?</h2>
