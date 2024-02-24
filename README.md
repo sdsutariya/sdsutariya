@@ -15,6 +15,14 @@
     <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode" alt="Leetcode Badge"/>
   </a>
 </div>
+  <div>
+    <a href="https://stackoverflow.com/users/20035612/sutariya-sumit">
+      <img src="https://img.shields.io/badge/Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stackoverflow Badge"/>
+    </a>
+    <a href="https://www.quora.com/profile/Sumit-Sutariya-4">
+      <img src="https://img.shields.io/badge/Quora-red?style=for-the-badge&logo=quora" alt="Quora Badge"/>
+    </a>
+  </div>
   <h3 align='center'>A passionate and creative full-stack developer and software engineer with a strong intrest in Back end technologies and DevOps⚙️.</h3><br/>
 </div>
 
