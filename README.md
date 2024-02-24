@@ -16,3 +16,8 @@
 - I love creating content.
 
 <h2>🌐 Socials:</h2>
+
+
+<h2>![image](https://github.com/sdsutariya/sdsutariya/assets/56433588/ae38516c-29ba-44eb-91b4-270aec5da016)
+ Tech Stack:</h2>
+NodeJS AWS CSS3 JavaScript HTML5 GraphQL PHP Python Solidity TypeScript Vercel Apollo-GraphQL Bootstrap Electron.js Chart.js Chakra Express.js Next JS MUI JWT Redux Socket.io React Router React TailwindCSS Yarn MongoDB MySQL Postgres Redis Supabase LINUX ESLint ElasticSearch Jira Docker Kubernetes Notion
