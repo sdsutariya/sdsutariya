@@ -1,7 +1,7 @@
 <h2>💫 About Me:</h2>
-- 👋 Hi, I’m sumit sutariya
-- 🌱 I’m currently working as software engineer.
-- 📫 you will reach me througth my email "sutariyasumit8000@gmail.com"
+- 👋 Hi, I’m sumit sutariya<br/>
+- 🌱 I’m currently working as software engineer.<br/>
+- 📫 you will reach me througth my email "sutariyasumit8000@gmail.com"<br/>
 
 <h3>🔭 I’m currently working on:</h3>
 - 👀 I’m Improving in mern stack web development and implementing microservices architecture.
