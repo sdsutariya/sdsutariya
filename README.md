@@ -1,5 +1,5 @@
 <h2>💫 About Me:</h2>
-<center>👋 Hi, I’m sumit sutariya</center><br/>
+<center>👋 Hi, I’m sumit sutariya </center><br/>
 - A passionate and creative full-stack developer and software engineer with a strong intrest in Back end technologies and DevOps⚙️.<br/>
 
 <h3>🔭 I’m currently working on:</h3>
