@@ -1,5 +1,5 @@
 <h2>💫 About Me:</h2>
-<center>👋 Hi, I’m sumit sutariya </center><br/>
+<h3 align="center">👋 Hi, I’m sumit sutariya </h3><br/>
 - A passionate and creative full-stack developer and software engineer with a strong intrest in Back end technologies and DevOps⚙️.<br/>
 
 <h3>🔭 I’m currently working on:</h3>
@@ -24,4 +24,4 @@ Node.js Express.js Nextess.js Mongodb Redis postgreSQL MySQL jest.js cypress Doc
 ⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻<br/>
 ⦿ Follow me on <a href='https://twitter.com/Sumit__Sutariya'>Twitter</a> 🐦<br/>
 ⦿ Follow me on instagram 🤩<br/>
-⦿ 📫 you will reach me througth my email "sutariyasumit8000@gmail.com" 💌<br/>
+⦿ Shoot me througth my email "sutariyasumit8000@gmail.com" 💌<br/>
