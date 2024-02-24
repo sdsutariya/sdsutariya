@@ -18,6 +18,5 @@
 <h2>🌐 Socials:</h2>
 
 
-<h2>![startup](https://github.com/sdsutariya/sdsutariya/assets/56433588/b8b84e51-be50-4376-9a47-b62ba4474834)
- Tech Stack:</h2>
+<h2>⚡Skills⚡</h2>
 NodeJS AWS CSS3 JavaScript HTML5 GraphQL PHP Python Solidity TypeScript Vercel Apollo-GraphQL Bootstrap Electron.js Chart.js Chakra Express.js Next JS MUI JWT Redux Socket.io React Router React TailwindCSS Yarn MongoDB MySQL Postgres Redis Supabase LINUX ESLint ElasticSearch Jira Docker Kubernetes Notion
