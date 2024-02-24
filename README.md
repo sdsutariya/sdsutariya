@@ -18,7 +18,8 @@
 
 
 <h2>⚡Skills⚡</h2>
-Node.js Express.js Nextess.js Mongodb Redis postgreSQL MySQL jest.js cypress Docker AWS github-actions nginx javascript typescript Go java python react.js GrapgQL Tailwind CSS git github
+https://github.com/sdsutariya/sdsutariya/assets/56433588/08c1b137-52c4-4c85-93a0-a447be11ec1e
+ Express.js Nextess.js Mongodb Redis postgreSQL MySQL jest.js cypress Docker AWS github-actions nginx javascript typescript Go java python react.js GrapgQL Tailwind CSS git github
 
 <h2>📫 How to reach me?</h2>
 ⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻<br/>
