@@ -19,4 +19,10 @@
 
 
 <h2>⚡Skills⚡</h2>
-NodeJS AWS CSS3 JavaScript HTML5 GraphQL PHP Python Solidity TypeScript Vercel Apollo-GraphQL Bootstrap Electron.js Chart.js Chakra Express.js Next JS MUI JWT Redux Socket.io React Router React TailwindCSS Yarn MongoDB MySQL Postgres Redis Supabase LINUX ESLint ElasticSearch Jira Docker Kubernetes Notion
+Node.js Express.js Nextess.js Mongodb Redis postgreSQL MySQL jest.js cypress Docker AWS github-actions nginx javascript typescript Go java python react.js GrapgQL Tailwind CSS git github
+
+📫 How to reach me?
+⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻
+⦿ Follow me on Twitter 🐦
+⦿ Follow me on instagram 🤩
+⦿ Shoot Me an Email 💌
