@@ -18,9 +18,25 @@
 
 
 <h2>⚡Skills⚡</h2>
-![image](https://github.com/sdsutariya/sdsutariya/assets/56433588/b086c68d-cee0-4979-9f48-ee695d1baeb0)
-
- Express.js Nextess.js Mongodb Redis postgreSQL MySQL jest.js cypress Docker AWS github-actions nginx javascript typescript Go java python react.js GrapgQL Tailwind CSS git github
+⦿ Node.js<br/>
+⦿ Express.js<br/>
+⦿ Nest.js<br/>
+⦿ Javascript<br/>
+⦿ Typescript<br/>
+⦿ Bun.js<br/>
+⦿ Elsiya.js<br/>
+⦿ Mongodb<br/>
+⦿ Redis<br/>
+⦿ PostgreSQL<br/>
+⦿ MySQL<br/>
+⦿ Docker<br/>
+⦿ AWS<br/>
+⦿ React.js<br/> 
+⦿ GrapgQL<br/>
+⦿ Git<br/>
+⦿ Github<br/>
+⦿ Github-Actions<br/>
+⦿ Socket.io<br/>
 
 <h2>📫 How to reach me?</h2>
 ⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻<br/>
