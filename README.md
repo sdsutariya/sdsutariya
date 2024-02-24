@@ -1,7 +1,7 @@
 <h2>💫 About Me:</h2>
-- 👋 Hi, I’m sumit sutariya<br/>
+<center>👋 Hi, I’m sumit sutariya</center>center><br/>
 - 🌱 I’m currently working as software engineer.<br/>
-- 📫 you will reach me througth my email "sutariyasumit8000@gmail.com"<br/>
+- A passionate and creative full-stack developer and product engineer from 🇮🇳  with a strong intrest in Back end technologies and DevOps⚙️.<br/>
 
 <h3>🔭 I’m currently working on:</h3>
 - 👀 I’m Improving in mern stack web development and implementing microservices architecture.
@@ -21,8 +21,8 @@
 <h2>⚡Skills⚡</h2>
 Node.js Express.js Nextess.js Mongodb Redis postgreSQL MySQL jest.js cypress Docker AWS github-actions nginx javascript typescript Go java python react.js GrapgQL Tailwind CSS git github
 
-📫 How to reach me?
-⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻
-⦿ Follow me on Twitter 🐦
+<h2>📫 How to reach me?</h2>
+⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻<br/>
+⦿ Follow me on <a href='https://twitter.com/Sumit__Sutariya'>Twitter</a> 🐦<br/>
 ⦿ Follow me on instagram 🤩
-⦿ Shoot Me an Email 💌
+⦿ 📫 you will reach me througth my email "sutariyasumit8000@gmail.com" 💌<br/>
