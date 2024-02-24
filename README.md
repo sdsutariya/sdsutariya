@@ -30,9 +30,6 @@
 <h3>⚡ Fun fact:</h3>
 - I love creating content.
 
-<h2>🌐 Socials:</h2>
-
-
 <h2>⚡Skills⚡</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
