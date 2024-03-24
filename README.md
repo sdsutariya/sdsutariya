@@ -69,6 +69,6 @@
 
 <h2>📫 How to reach me?</h2>
 ⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻<br/>
-⦿ Follow me on <a href='https://twitter.com/Sumit__Sutariya'>Twitter</a> 🐦<br/>
+⦿ Follow me on <a href='https://twitter.com/stick2dev'>Twitter</a> 🐦<br/>
 ⦿ Follow me on instagram 🤩<br/>
 ⦿ Shoot me througth my email "sutariyasumit8000@gmail.com" 💌<br/>
