@@ -135,8 +135,6 @@ The **Product Seeker** tool allows sellers to explore products within specific n
 - **Database**: PostgreSQL
 - **APIs**: Etsy API, Google Ads API, Google Keyword Planner API
 
----
-
 ## My Role
 
 As a developer, I worked on building the following key features for this project:
