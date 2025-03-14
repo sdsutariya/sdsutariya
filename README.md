@@ -70,6 +70,46 @@
 <h2>⚡ My Project</h2>
 
 <h2>⚡ Experience </h2>
+
+<h2> ** CKC Dog Competition Results System ** </h2>
+
+The **CKC Dog Competition Results System** is a web application developed for the **Canadian Kennel Club (CKC)**, the national non-profit organization that manages the registry of purebred dogs in Canada. This system is designed to manage and display dog competition results, automate certificate generation, and provide visual insights into annual competition statistics.
+
+## Features
+
+### 1. **Results Uploading and Display System**
+   - Allows CKC event organizers to upload competition results efficiently.
+   - Provides an interface for both event organizers and users to view and search through historical results.
+
+### 2. **Data Visualization with amCharts**
+   - Interactive charts display annual statistics and trends, such as top-performing dogs, breeds, and competitions.
+   - Helps users and administrators analyze data in a meaningful way, making it easier to spot trends and patterns in competition outcomes.
+
+### 3. **Automated Certificate Generation**
+   - Automatically generates certificates for competition participants upon event completion.
+   - Streamlines the process, reducing manual work for administrators and ensuring quick delivery of certificates to participants.
+
+## Technologies Used
+
+- **Frontend**: React.js, Material-UI (MUI)
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Data Visualization**: amCharts
+- **Certificate Generation**: PDF Generation Libraries
+
+## My Role
+
+As the primary developer, I:
+- **Developed the Results Uploading System**: I created a streamlined process for uploading and storing competition results.
+- **Implemented Data Visualization**: Integrated **amCharts in React** to display key insights into annual competition statistics and trends.
+- **Automated Certificates**: Developed the functionality to automatically generate and deliver certificates to competition participants.
+- **Optimized User Experience**: Focused on ensuring the system was intuitive, user-friendly, and capable of handling large amounts of competition data.
+
+- Visit CKC-TopDogs: [https://ckc.chantsit.com/](https://ckc.chantsit.com/)
+- Visit CKC- Event Management: [https://events.ckc.ca/](https://events.ckc.ca/)
+
+-----------------------------------------------------------------------------------------------------
+
 <h2> 🚀 ** Alura - Powerful Tools for Etsy Sellers** </h2>
 
 The **Etsy Seller Tools** project is a suite of tools designed to help Etsy shop owners grow their businesses by optimizing their product listings, analyzing their shops, and researching keywords and products. This project includes the following key features:
