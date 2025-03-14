@@ -70,6 +70,63 @@
 <h2>⚡ My Project</h2>
 
 <h2>⚡ Experience </h2>
+<h2> 🚀 ** Alura - Powerful Tools for Etsy Sellers** </h2>
+
+The **Etsy Seller Tools** project is a suite of tools designed to help Etsy shop owners grow their businesses by optimizing their product listings, analyzing their shops, and researching keywords and products. This project includes the following key features:
+
+## Features
+
+### 1. **Keyword Finder**
+The **Keyword Finder** tool allows Etsy sellers to perform keyword research by identifying high-demand and low-competition keywords that are relevant to their products. This helps sellers optimize their listings to improve visibility on Etsy’s search engine and attract more customers.
+
+### 2. **Shop Analyzer**
+The **Shop Analyzer** tool analyzes the performance of any Etsy shop, including top-selling listings, revenue, order volume, and more. It provides valuable insights into how successful Etsy shops operate, enabling sellers to adopt effective strategies for their own shops.
+
+### 3. **Listing Helper**
+The **Listing Helper** tool suggests improvements for Etsy listings based on Etsy's seller handbook. It helps sellers optimize their product descriptions, images, tags, and titles to improve ranking in Etsy search results and boost the visibility of their listings.
+
+### 4. **Product Seeker**
+The **Product Seeker** tool allows sellers to explore products within specific niches and understand the revenue potential of various products. It also provides a way for sellers to analyze their competitors and identify profitable products to sell in their shop.
+
+---
+
+## Technologies Used
+
+- **Backend**: Node.js
+- **Frontend**: React.js, Material UI (MUI)
+- **Database**: PostgreSQL
+- **APIs**: Etsy API, Google Ads API, Google Keyword Planner API
+
+---
+
+## My Role
+
+As a developer, I worked on building the following key features for this project:
+
+### **Keyword Finder**
+- Developed the backend logic using Node.js to fetch relevant keywords for Etsy sellers.
+- Integrated with the Google Ads API to provide insights on high-demand and low-competition keywords.
+- Implemented a user-friendly interface using React.js and Material UI for easy interaction.
+
+### **Shop Analyzer**
+- Built the functionality to analyze Etsy shop data, including top-selling listings, revenue, and order volume.
+- Integrated Etsy's API to fetch shop data in real-time.
+- Worked on optimizing the frontend with React.js to display data in a clean and user-friendly manner.
+
+### **Listing Helper**
+- Developed a system to suggest listing optimizations based on Etsy’s seller handbook.
+- Designed the logic for providing actionable recommendations for sellers to improve their listings.
+- Integrated Material UI to provide a clean and responsive UI for users to easily optimize their listings.
+
+### **Product Seeker**
+- Created the backend service to search and analyze products within specific niches.
+- Integrated the Etsy API to provide data about products and their revenue potential.
+- Developed the React.js interface to allow users to explore products and analyze their competitors.
+
+Visit Alura: [https://www.alura.io/](https://www.alura.io/)
+
+-----------------------------------------------------------------------------------------------------
+
 <h2> 🚀 **Ava - Your Personal AI Writing Assistant** 🤖✍️ </h2>
 
 **Ava** is a cutting-edge AI-powered writing assistant designed to help you create high-quality content in **seconds**. It leverages **ChatGPT** in the backend to generate well-crafted drafts, saving you time and effort on writing tasks. Whether you're crafting emails, blog posts, social media captions, or marketing materials, Ava’s advanced algorithms help you create content that’s both engaging and effective.
@@ -93,6 +150,7 @@ With over **100+ customizable templates**, Ava is built for professionals in ind
 
 Ava is revolutionizing the way content is created, making it accessible, fast, and efficient for professionals across the globe. Whether you're a marketer, writer, or entrepreneur, Ava is your go-to solution for high-quality content—created instantly!
 
+-----------------------------------------------------------------------------------------------------
 
  <h2> 🚲 **BikeFolder - The Ultimate Bike Ownership Platform** </h2>
 
@@ -128,11 +186,10 @@ As a developer, I contributed to the creation of **BikeFolder** using **modern b
 - **Increased Bike Value**: Avoid unnecessary depreciation by keeping your bike’s documentation and service history up-to-date.
 - **Convenient Service Scheduling**: Book bike servicing online or receive a service reminder directly via SMS, making it easier to stay on top of maintenance.
 - **Secure Theft Reporting**: If your bike is stolen, **BikeFolder** ensures that repairs or ownership transfers are impossible, preventing further complications.
-  
-### 📈 **Get Started with BikeFolder**:
-**BikeFolder** is revolutionizing bike ownership management. Whether you’re a rider, a seller, or a bike service shop, **BikeFolder** is designed to help you maximize the value and ease of managing your bike. 
 
 - **Visit BikeFolder**: [www.bikefolder.com](https://bikefolder.com/en/)
+
+-----------------------------------------------------------------------------------------------------
 
 <h2>📫 How to reach me?</h2>
 ⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻<br/>
