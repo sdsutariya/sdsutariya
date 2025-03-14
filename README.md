@@ -71,6 +71,54 @@
 
 <h2>⚡ Experience </h2>
 
+<h2> FoodByte - Digital Food Safety Solution </h2>
+
+**FoodByte** is an innovative digital solution designed for food manufacturers to streamline food safety and compliance processes. The platform helps companies ensure compliance with various industry standards, such as **SQF**, **BRC**, **FSMA**, **HACCP**, and **Canada/GlobalGAP**, while digitizing paper-based workflows, simplifying audits, and enabling real-time monitoring.
+
+## Key Features
+
+- **Food Processing Monitoring**: Tracks and monitors food processing activities to ensure compliance with safety standards.
+- **Deviation Handling**: Automatically flags deviations and implements corrective actions to maintain safety compliance.
+- **Traceability Module**: Provides full transparency by tracking the entire food production lifecycle—from raw material sourcing to production, order fulfillment, and recall management.
+- **Audit & Reporting Tools**: Streamlines auditing with real-time reporting, providing an overview of compliance metrics, safety checks, and operational insights.
+- **Real-Time Monitoring**: Ensures ongoing food safety and quality control by providing real-time tracking of key compliance metrics.
+
+## Technologies Used
+
+- **Backend**: Node.js, Express.js
+- **Frontend**: React.js, Material UI (MUI)
+- **Database**: MongoDB, PostgreSQL
+- **Other Tools**: REST APIs, WebSockets for real-time data updates
+
+## My Role
+
+As the **sole developer** of the **FoodByte** platform, I handled the entire development cycle from inception to deployment. This includes both backend and frontend development, as well as direct interaction with the client. Key contributions include:
+
+### Backend Development:
+- **Node.js**: Developed core backend features, including food processing monitoring, deviation handling, and verification processes to ensure compliance and safety.
+- **API Integration**: Designed and implemented REST APIs to enable communication between the frontend and backend.
+- **Traceability Module**: Built the comprehensive **Traceability Module** to track the entire food production lifecycle, providing full visibility for food manufacturers.
+  
+### Frontend Development:
+- **React.js**: Contributed to the frontend development of the **Traceability Module** using React, enhancing user experience and providing real-time data visualization.
+- **Material UI (MUI)**: Integrated **MUI** components for responsive and intuitive UI design, ensuring a seamless user experience across different devices.
+
+### Client Interaction:
+- **Client Calls**: Managed client calls to gather requirements, discuss project scope, and provide regular updates. This was crucial for aligning the project with client needs and expectations.
+- **Feature Discussions**: Worked directly with clients to discuss and finalize features, ensuring the solution met their operational and compliance requirements.
+
+### Real-Time Monitoring and Reporting:
+- Developed features that allow for real-time tracking and reporting of compliance metrics, providing food manufacturers with timely insights into their operations.
+
+### Achievements:
+- Delivered a **fully functional solution** that digitizes the entire food safety and compliance process.
+- Helped small teams **save up to $50,000 annually** by eliminating paper-based processes and automating auditing tasks.
+- Provided the client with a **scalable solution** that can grow with their business and adapt to evolving industry standards.
+
+- Visit Foodbyte : [https://foodbyte.io](https://foodbyte.io)
+
+-----------------------------------------------------------------------------------------------------
+
 <h2> ** CKC Dog Competition Results System ** </h2>
 
 The **CKC Dog Competition Results System** is a web application developed for the **Canadian Kennel Club (CKC)**, the national non-profit organization that manages the registry of purebred dogs in Canada. This system is designed to manage and display dog competition results, automate certificate generation, and provide visual insights into annual competition statistics.
