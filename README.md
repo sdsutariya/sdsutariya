@@ -128,8 +128,6 @@ The **Listing Helper** tool suggests improvements for Etsy listings based on Ets
 ### 4. **Product Seeker**
 The **Product Seeker** tool allows sellers to explore products within specific niches and understand the revenue potential of various products. It also provides a way for sellers to analyze their competitors and identify profitable products to sell in their shop.
 
----
-
 ## Technologies Used
 
 - **Backend**: Node.js
