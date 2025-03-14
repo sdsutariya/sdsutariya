@@ -99,7 +99,7 @@ The **CKC Dog Competition Results System** is a web application developed for th
 
 ## My Role
 
-As the primary developer, I:
+As the primary developer :
 - **Developed the Results Uploading System**: I created a streamlined process for uploading and storing competition results.
 - **Implemented Data Visualization**: Integrated **amCharts in React** to display key insights into annual competition statistics and trends.
 - **Automated Certificates**: Developed the functionality to automatically generate and deliver certificates to competition participants.
