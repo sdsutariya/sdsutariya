@@ -64,8 +64,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="socketio" alt="socketio" width="40" height="40"/>&nbsp;
 </div>
-<h2>📊 GitHub Stats:</h2>
-<img src="https://streak-stats.demolab.com/?user=sdsutariya" title="streak-stats" alt="streak-stats"/>&nbsp;
 
 <h2>⚡ Experience </h2>
 <h2> # Ethical Swag Admin Panel </h2>
