@@ -104,7 +104,7 @@ The **Ethical Swag Order Management System** handles customer orders through an 
 
 As the primary developer, I built and integrated the system’s automated processes to ensure smooth order handling—from estimation, invoicing, and billing to delivery tracking. The result is an efficient and user-friendly platform that simplifies order management.
 
-- Visit Foodbyte : [https://ethicalswag.chantsit.com/](https://ethicalswag.chantsit.com/)
+- Visit : [https://ethicalswag.chantsit.com/](https://ethicalswag.chantsit.com/)
 
 -----------------------------------------------------------------------------------------------------
 
