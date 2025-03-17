@@ -67,9 +67,46 @@
 <h2>📊 GitHub Stats:</h2>
 <img src="https://streak-stats.demolab.com/?user=sdsutariya" title="streak-stats" alt="streak-stats"/>&nbsp;
 
-<h2>⚡ My Project</h2>
-
 <h2>⚡ Experience </h2>
+<h2> # Ethical Swag Order Management System </h2>
+
+The **Ethical Swag Order Management System** handles customer orders through an efficient and automated process, from order placement to delivery. This system ensures smooth order tracking, invoicing, and delivery management, automating key tasks like estimating, invoicing, billing, and more.
+
+## Order Process Flow
+
+1. **Customer Order Placement**: The customer places an order through the Ethical Swag platform.
+2. **Order Reception**: The order is received and processed in the **Order Management System**.
+3. **Supplier Estimation**: The order is sent to the supplier for an estimate. The supplier provides the estimated bill for the order.
+4. **Customer Verification**: The customer reviews the estimate and verifies the order details.
+5. **Order Approval**: Once verified, the customer gives approval for the order.
+6. **Purchase from Supplier**: Upon approval, the order is sent to the supplier for fulfillment.
+7. **Invoice Generation**: The system generates an invoice for the customer and sends it for payment.
+8. **Payment Confirmation**: After the customer pays the bill, the system confirms the payment.
+9. **Delivery Preparation**: The order is prepared for delivery, and the delivery process is tracked via **Delivery Automation**.
+10. **Order Tracking**: The delivery status is continuously tracked and updated for both the company and the customer.
+
+## Automation Features
+
+- **Estimate Automation**: Automatically generates supplier estimates based on customer orders.
+- **Invoicing Automation**: Automatically generates invoices once the order is approved by the customer.
+- **Billing Automation**: Handles billing and tracks payment status.
+- **Delivery Automation**: Automates delivery tracking to ensure timely shipment and updates.
+
+## Technologies Used
+
+- **Frontend**: React.js, Material-UI
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Automation Tools**: Node Cron for scheduled tasks
+- **Deployment**: Docker, Heroku
+
+## My Role
+
+As the primary developer, I built and integrated the system’s automated processes to ensure smooth order handling—from estimation, invoicing, and billing to delivery tracking. The result is an efficient and user-friendly platform that simplifies order management.
+
+- Visit Foodbyte : [https://ethicalswag.chantsit.com/](https://ethicalswag.chantsit.com/)
+
+-----------------------------------------------------------------------------------------------------
 
 <h2> FoodByte - Digital Food Safety Solution </h2>
 
