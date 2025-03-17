@@ -314,6 +314,8 @@ As a developer, I contributed to the creation of **BikeFolder** using **modern b
 
 <h2>⚡ My Project</h2>
 
+-----------------------------------------------------------------------------------------------------
+
 <h2> JetChat 🚀 - Real-Time Chat Application (MERN Stack & Socket.io) </h2>
 
 A real-time chat application built with **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Socket.io** for instant messaging.
@@ -348,6 +350,30 @@ Backend Repo : https://github.com/sdsutariya/jetChat-backend
 - **Vite**: Build tool for frontend development.
   
 Frontend Repo : https://github.com/sdsutariya/jetChat-frontend
+
+-----------------------------------------------------------------------------------------------------
+
+<h2> 🛒 E-Commerce </h2>
+
+An e-commerce platform that allows users to browse products, manage their cart, place orders, and make payments securely. Admins can manage products, users, and orders through the admin dashboard.
+
+## Features ⭐
+
+- **Authentication**: Users can register and log in to access the platform.
+- **User Cart**: Users can add, update, and delete items in their cart.
+- **Orders**: Users can place orders, view their order history, and track order status.
+- **Admin Dashboard**: Admins have access to additional features such as managing products, users, and orders.
+- **Payment Integration**: Stripe integration for secure payment processing.
+
+## Technologies Used 💻
+
+### Backend
+- **Node.js**: Server-side JavaScript runtime.
+- **Express.js**: Framework for building REST APIs.
+- **MongoDB**: NoSQL database to store user and order data.
+- **Stripe**: Payment processing for secure transactions.
+
+-----------------------------------------------------------------------------------------------------
 
 <h2>📫 How to reach me?</h2>
 ⦿ Connect with me on <a href='https://www.linkedin.com/in/sumit-s-761816216/'>LinkedIn</a> 👨🏻‍💻<br/>
