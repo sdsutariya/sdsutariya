@@ -68,10 +68,13 @@
 <img src="https://streak-stats.demolab.com/?user=sdsutariya" title="streak-stats" alt="streak-stats"/>&nbsp;
 
 <h2>⚡ Experience </h2>
-<h2> # Ethical Swag Order Management System </h2>
+<h2> # Ethical Swag Admin Panel </h2>
 
 The **Ethical Swag Order Management System** handles customer orders through an efficient and automated process, from order placement to delivery. This system ensures smooth order tracking, invoicing, and delivery management, automating key tasks like estimating, invoicing, billing, and more.
 
+<details>
+  <summary>👉 Click here for more project details</summary>
+  
 ## Order Process Flow
 
 1. **Customer Order Placement**: The customer places an order through the Ethical Swag platform.
@@ -106,12 +109,17 @@ As the primary developer, I built and integrated the system’s automated proces
 
 - Visit : [https://ethicalswag.chantsit.com/](https://ethicalswag.chantsit.com/)
 
+</details>
+
 -----------------------------------------------------------------------------------------------------
 
 <h2> FoodByte - Digital Food Safety Solution </h2>
 
 **FoodByte** is an innovative digital solution designed for food manufacturers to streamline food safety and compliance processes. The platform helps companies ensure compliance with various industry standards, such as **SQF**, **BRC**, **FSMA**, **HACCP**, and **Canada/GlobalGAP**, while digitizing paper-based workflows, simplifying audits, and enabling real-time monitoring.
 
+<details>
+  <summary>👉 Click here for more project details</summary>
+  
 ## Key Features
 
 - **Food Processing Monitoring**: Tracks and monitors food processing activities to ensure compliance with safety standards.
@@ -154,12 +162,17 @@ As the **sole developer** of the **FoodByte** platform, I handled the entire dev
 
 - Visit Foodbyte : [https://foodbyte.io](https://foodbyte.io)
 
+</details>
+
 -----------------------------------------------------------------------------------------------------
 
 <h2> ** CKC Dog Competition Results System ** </h2>
 
 The **CKC Dog Competition Results System** is a web application developed for the **Canadian Kennel Club (CKC)**, the national non-profit organization that manages the registry of purebred dogs in Canada. This system is designed to manage and display dog competition results, automate certificate generation, and provide visual insights into annual competition statistics.
 
+<details>
+  <summary>👉 Click here for more project details</summary>
+  
 ## Features
 
 ### 1. **Results Uploading and Display System**
@@ -193,12 +206,17 @@ As the primary developer :
 - Visit CKC-TopDogs: [https://ckc.chantsit.com/](https://ckc.chantsit.com/)
 - Visit CKC- Event Management: [https://events.ckc.ca/](https://events.ckc.ca/)
 
+</details>
+
 -----------------------------------------------------------------------------------------------------
 
 <h2> 🚀 ** Alura - Powerful Tools for Etsy Sellers** </h2>
 
 The **Etsy Seller Tools** project is a suite of tools designed to help Etsy shop owners grow their businesses by optimizing their product listings, analyzing their shops, and researching keywords and products. This project includes the following key features:
 
+<details>
+  <summary>👉 Click here for more project details</summary>
+  
 ## Features
 
 ### 1. **Keyword Finder**
@@ -246,6 +264,8 @@ As a developer, I worked on building the following key features for this project
 
 Visit Alura: [https://www.alura.io/](https://www.alura.io/)
 
+</details>
+
 -----------------------------------------------------------------------------------------------------
 
 <h2> 🚀 **Ava - Your Personal AI Writing Assistant** 🤖✍️ </h2>
@@ -254,6 +274,9 @@ Visit Alura: [https://www.alura.io/](https://www.alura.io/)
 
 With over **100+ customizable templates**, Ava is built for professionals in industries like **marketing**, **sales**, **human resources**, and **content creation**. Ava adapts to your needs, making it easier to produce content across a variety of use cases, such as cold emails, SEO-optimized articles, product descriptions, and more.
 
+<details>
+  <summary>👉 Click here for more project details</summary>
+  
 ### 💡 **Key Features:**
 - **Instant Content Creation**: Generate your first draft in seconds with high-quality, AI-generated content.
 - **AI-Powered Templates**: Access over 100 templates tailored for marketing, HR, customer support, and more.
@@ -271,12 +294,17 @@ With over **100+ customizable templates**, Ava is built for professionals in ind
 
 Ava is revolutionizing the way content is created, making it accessible, fast, and efficient for professionals across the globe. Whether you're a marketer, writer, or entrepreneur, Ava is your go-to solution for high-quality content—created instantly!
 
+</details>
+
 -----------------------------------------------------------------------------------------------------
 
  <h2> 🚲 **BikeFolder - The Ultimate Bike Ownership Platform** </h2>
 
 **BikeFolder** is a cutting-edge software solution built from the ground up with disruptive backend technologies. It offers a comprehensive suite of features that simplify bike ownership, such as selling bikes, changing ownership, managing insurance leads, service notifications, and more. Whether you're a bike enthusiast or a dealership, **BikeFolder** streamlines bike management and ensures maximum value retention for your bike.
 
+<details>
+  <summary>👉 Click here for more project details</summary>
+  
 ### 🔑 **Key Features:**
 - **One-Click Sale**: Directly link your bike to secondhand sales platforms. Ownership is automatically transferred once the sale is complete.
 - **Ownership Transfer**: Automated change of ownership after the sale is finalized.
@@ -310,6 +338,8 @@ As a developer, I contributed to the creation of **BikeFolder** using **modern b
 
 - **Visit BikeFolder**: [www.bikefolder.com](https://bikefolder.com/en/)
 
+</details>
+
 -----------------------------------------------------------------------------------------------------
 
 <h2>⚡ My Project</h2>
@@ -320,6 +350,9 @@ As a developer, I contributed to the creation of **BikeFolder** using **modern b
 
 A real-time chat application built with **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and **Socket.io** for instant messaging.
 
+<details>
+  <summary>👉 Click here for more project details</summary>
+  
 ## Features ⭐
 - **Real-time Chat**: One-to-one and group chat functionality.
 - **Real-time Notifications**: Notifications when a new message is received.
@@ -351,12 +384,17 @@ Backend Repo : https://github.com/sdsutariya/jetChat-backend
   
 Frontend Repo : https://github.com/sdsutariya/jetChat-frontend
 
+</details>
+
 -----------------------------------------------------------------------------------------------------
 
 <h2> 🛒 E-Commerce </h2>
 
 An e-commerce platform that allows users to browse products, manage their cart, place orders, and make payments securely. Admins can manage products, users, and orders through the admin dashboard.
 
+<details>
+  <summary>👉 Click here for more project details</summary>
+  
 ## Features ⭐
 
 - **Authentication**: Users can register and log in to access the platform.
@@ -372,6 +410,10 @@ An e-commerce platform that allows users to browse products, manage their cart, 
 - **Express.js**: Framework for building REST APIs.
 - **MongoDB**: NoSQL database to store user and order data.
 - **Stripe**: Payment processing for secure transactions.
+
+Repo : https://github.com/sdsutariya/e-commerce
+
+</details>
 
 -----------------------------------------------------------------------------------------------------
 
